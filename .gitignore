@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Editores
+.vscode/
+*.swp
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
